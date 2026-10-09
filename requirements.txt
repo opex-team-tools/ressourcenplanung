@@ -1,0 +1,7 @@
+streamlit>=1.50
+pandas>=2.2
+plotly>=5.22
+holidays>=0.55
+psycopg[binary]>=3.2
+psycopg-pool>=3.2
+openpyxl>=3.1
